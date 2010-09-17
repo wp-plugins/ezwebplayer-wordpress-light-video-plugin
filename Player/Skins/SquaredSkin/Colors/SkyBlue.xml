@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkinSettings>
+	<Border>
+		<TopBackground color="BACDDC" />
+		<BottomBackground color="CBDBE8" />
+	</Border>
+	<ControlBar>
+		<Border color="44596a" />
+		<Icon color="44596a" />
+		<CircleButtonsMiddle color="ffffff" />
+		<CircleButtonsOuter color="92adc2" />
+		<UnLoadedVideoTop color="44596a" />
+		<UnLoadedVideoBottom color="92adc2" />
+		<LoadedVideoTop color="92adc2" />
+		<LoadedVideoBottom color="44596a" />
+		<LeftOfVolumeScrubberTop color="92adc2" />
+		<LeftOfVolumeScrubberBottom color="44596a" />
+		<RightOfVolumeScrubberTop color="44596a" />
+		<RightOfVolumeScrubberBottom color="92adc2" />
+		<TopBackground color="d6e4f1" />
+		<BottomBackground color="92adc2" />
+	</ControlBar>
+</SkinSettings>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvertisementList>
+		<!--imageurl=""     Place the URL of the Advertisement Image Here -->
+		
+		<!--timestamp=""    You will use this to set a time stamp on when to show the image during video playback-->
+		<!--                If your video is less then a minute use "01" through "59"-->
+		<!--                If your video is more then a minute and less then an hour use "00:01" through "59:59"-->
+		<!--                If your video is more then a hour use "00:00:01" through "23:59:59"-->
+		
+		<!--linkurl=""      Place the URL to the page you want your image to link to here, other wise leave this area blank by using linkurl="" -->
+		
+		<!--windowoption="" When selecting the Image to open the linkurl page, you have the option of opening the new page in the same window or a new window-->
+		<!--                To open the page in a new window use windowoption="Same"-->
+		<!--                To open the page in the same window as the player use windowoption="New"-->
+		<Advertisement imageurl="AddOns/Advertisements/Images/1.jpg" timestamp="00:03" linkurl="http://www.ezwebplayer.com/" windowoption="Same" />
+</AdvertisementList>
