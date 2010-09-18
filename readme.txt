@@ -1,18 +1,18 @@
 === EZWebPlayer WordPress Lite Video Plugin ===
 Contributors: EZWebPlayer
 Donate link: 
-Tags: web, video, player, website, blog, embedd,share, web video, flash player, video blog
+Tags: EZWebPlayer Wordpress Pro Video Plugin, EZWebPlayer, Video Plugin, Video Plugin, web, video, player, website, blog, embedd,share, web video, flash player, video blog
 Requires at least: 2.6
 Tested up to: 3.0.1
 Stable tag: 1.5
 
-WordPress Video plugin allows you to play video in your WordPress blog.
+EZWebPlayer WordPress Video plugin allows you to play video in your WordPress blog.
 
 == Description ==
 
 EZWebPlayer WordPress Light Video Plugin
 
-Content owners on WordPress have the benefit of a robust FLV player that is rich in professional features. The web video plugin allows you to post your videos, report on views, track which videos has been posted and where, and a simple toolbar plugin that allows you to add videos quickly.
+Content owners on WordPress have the benefit of a robust FLV/F4V/MP4/MOV player that is rich in professional features. The web video plugin allows you to post your videos, report on views, track which videos has been posted and where, and a simple toolbar plugin that allows you to add videos quickly.
  
 Video content owners have the power to quickly create a new entry by posting standalone videos. Alternatively, existing blog entries can be refreshed by the addition of one or more relevant videos with the ease of a few clicks. 
  
@@ -42,11 +42,6 @@ Extra: For more detailed installation instructions please visit (http://www.ezwe
 
 For our most recently frequently ask questions please visit (http://www.ezwebplayer.com/support/2010/02/ezwebplayer-wordpress-lite-plugin-faq/)
 
-== Screenshots ==
- `http://www.ezwebplayer.com/support/WPPlugin/Images/Lite/s6.png`
- `http://www.ezwebplayer.com/support/WPPlugin/Images/Lite/s7.png`
- `http://www.ezwebplayer.com/support/WPPlugin/Images/Lite/s10.png`
-
 == How To Use ==
 
 For a more detailed How To Use, please visit this article (http://www.ezwebplayer.com/support/2010/09/ezwebplayer-wordpress-lite-plugin/)
@@ -55,6 +50,7 @@ The EZWebPlayer WordPress Lite Plugin will support;
 - .flv video
 - .f4v video
 - .mp4 (h.264 codec) video
+- .mov video
 - Youtube Videos
 - RTMP Streaming
 - RTMP Live Streaming
