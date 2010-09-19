@@ -5,6 +5,7 @@ Tags: EZWebPlayer Wordpress Pro Video Plugin, EZWebPlayer, Video Plugin, Video P
 Requires at least: 2.6
 Tested up to: 3.0.1
 Stable tag: 1.5
+Date: 19/09/2010
 
 EZWebPlayer WordPress Video plugin allows you to play video in your WordPress blog.
 
